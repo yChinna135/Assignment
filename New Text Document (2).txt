@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Center Div</title>
+  <style>
+    /* Make the body a flex container */
+    body {
+      display: flex;
+      justify-content: center;   /* Horizontal center */
+      align-items: center;       /* Vertical center */
+      height: 100vh;             /* Full viewport height */
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    /* Style for the centered box */
+    .center-box {
+      background-color: #4CAF50;
+      color: white;
+      padding: 40px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="center-box">
+    <h2>Hello, I'm Centered!</h2>
+    <p>This box is perfectly centered on the page.</p>
+  </div>
+
+</body>
+</html>

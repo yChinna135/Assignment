@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Webpage</title>
+</head>
+<body>
+    <header>
+        <h1>HEADING</h1>
+</header>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, aperiam autem possimus labore neque amet nam reprehenderit non facere tempore, veniam vitae? Ipsam blanditiis perspiciatis quam sed delectus! Nemo, fuga?</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1920px-Google_2015_logo.svg.png" alt="image" height="100" width="300">    
+</body>
+</html>
